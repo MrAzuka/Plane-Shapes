@@ -1,0 +1,8 @@
+In this project i would be creating a game on mensuration of shapes.
+the game would be centered on five basic shapes, which include
+a triangle, square, circle, rectangle and trapezium.
+
+The game is to calculate the area or perimeter of any of the given shapes.
+
+There will be 5 options which stand for the shapes above.
+when the user chooses any of the options, they will have to provide the dimensions for any of the given calculation.
